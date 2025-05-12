@@ -55,7 +55,7 @@ body {
   text-decoration: none;
   color: black;
 }
-.navbar ul li  :hover{
+.navbar ul li :hover {
   color: #f54c1e;
   text-decoration: underline;
   text-underline-offset: 4px;
@@ -286,7 +286,6 @@ span {
   margin-bottom: 25px;
   line-height: 25px;
   color: gray;
- 
 }
 .box3-item3 a {
   width: 200px;
@@ -881,7 +880,6 @@ span {
   font-size: 18px;
   border: 0;
   border-radius: 10px;
-
 }
 .box7-item2 button a {
   text-decoration: none;
@@ -1092,7 +1090,6 @@ span {
   width: 113px;
   margin-right: 100px;
   border-radius: 7px;
-
 }
 .box9-item2 a {
   color: white;
@@ -1161,7 +1158,7 @@ span {
   margin-top: 10px;
   font-size: 30px;
 }
-.icons:hover{
+.icons:hover {
   cursor: pointer;
 }
 .box10-item2 {
@@ -1197,7 +1194,7 @@ span {
     font-size: 30px;
     text-align: center;
   }
-  .icons:hover{
+  .icons:hover {
     cursor: pointer;
   }
   .box10-item2 {
@@ -1233,11 +1230,11 @@ footer p {
   color: gray;
 }
 
-td:hover{
-   color: #f54c1e;
-   cursor: pointer;
+td:hover {
+  color: #f54c1e;
+  cursor: pointer;
 }
-th:hover{
+th:hover {
   color: #f54c1e;
   cursor: pointer;
 }
