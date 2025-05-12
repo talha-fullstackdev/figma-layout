@@ -385,12 +385,12 @@ span {
 .box4-item1 {
   position: relative;
   max-width: 514px;
-  background-image: url("box-4-img1.png");
+  background-image: url("/images/box-4-img1.png");
 }
 .box4-item2 {
   position: relative;
   max-width: 514px;
-  background-image: url("box-4\ img2.png");
+  background-image: url("/images/box-4\ img2.png");
 }
 .box4-item1::before {
   content: "";
@@ -479,12 +479,12 @@ span {
   .box4-item1 {
     position: relative;
     max-width: 403px;
-    background-image: url("box-4-img1.png");
+    background-image: url("/images/box-4-img1.png");
   }
   .box4-item2 {
     position: relative;
     max-width: 403px;
-    background-image: url("box-4\ img2.png");
+    background-image: url("/images/box-4\ img2.png");
   }
   .box-4-content h2 {
     font-size: 16px;
@@ -522,7 +522,7 @@ span {
 }
 .box5-item1::after {
   content: "";
-  background-image: url("box-5-child-1.png");
+  background-image: url("/images/box-5-child-1.png");
   background-repeat: no-repeat;
   top: 222px;
   left: 192px;
@@ -532,7 +532,7 @@ span {
 }
 .box5-item1::before {
   content: "";
-  background-image: url("box-5-child2.png");
+  background-image: url("/images/box-5-child2.png");
   position: absolute;
   width: 100px;
   height: 100px;
@@ -591,7 +591,7 @@ span {
   }
   .box5-item1::after {
     content: "";
-    background-image: url("box-5-child-1.png");
+    background-image: url("/images/box-5-child-1.png");
     background-repeat: no-repeat;
     top: 257px;
     left: -7px;
@@ -603,7 +603,7 @@ span {
   }
   .box5-item1::before {
     content: "";
-    background-image: url("box-5-child2.png");
+    background-image: url("/images/box-5-child2.png");
     position: absolute;
     width: 100px;
     height: 100px;
@@ -686,7 +686,7 @@ span {
   font-size: 18px;
   max-width: 349px;
   height: 439px;
-  background-image: url("box6-item1-img.png");
+  background-image: url("/images/box6-item1-img.png");
   color: white;
   position: relative;
 }
@@ -699,7 +699,7 @@ span {
   font-size: 18px;
   max-width: 349px;
   height: 439px;
-  background-image: url("box-6-item2-img.png");
+  background-image: url("/images/box-6-item2-img.png");
   color: white;
   position: relative;
 }
@@ -712,7 +712,7 @@ span {
   font-size: 18px;
   max-width: 349px;
   height: 439px;
-  background-image: url("box-6-item3-img.png");
+  background-image: url("/images/box-6-item3-img.png");
   color: white;
   position: relative;
 }
@@ -725,7 +725,7 @@ span {
   font-size: 18px;
   max-width: 349px;
   height: 439px;
-  background-image: url("box6-item4-img.png");
+  background-image: url("/images/box6-item4-img.png");
   color: white;
   position: relative;
 }
@@ -844,7 +844,7 @@ span {
 }
 
 .box7 {
-  background-image: url("cont7-background.png");
+  background-image: url("/images/cont7-background.png");
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: 130px;
