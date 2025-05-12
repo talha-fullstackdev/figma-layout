@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: black; 
+    color: white;  
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 53px;
+    font-size: 20px;
+    list-style: none;
+ 
+}
+.navbar ul li{
+    padding: 15px;
+    cursor: pointer;
+}
+body{
+    background-color: lightblue;
+}
+.navbar ul li:hover{
+    color: red;
+    transition: .5s;
+}
+.logo:hover{
+    color: red;
+    cursor: pointer;
+}
