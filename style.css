@@ -715,19 +715,7 @@ span {
     flex-wrap: wrap;
     gap: 22px;
   }
-  .box6-item1 {
-    width: 301px;
-    height: 404px;
-  }
-  .box6-item2 {
-    width: 301px;
-    height: 404px;
-  }
-  .box6-item3 {
-    width: 301px;
-    height: 404px;
-  }
-  .box6-item4 {
+  .box6-item1 , .box6-item2 , .box6-item3 , .box6-item4  {
     width: 301px;
     height: 404px;
   }
@@ -842,46 +830,18 @@ span {
   margin-top: 70px;
 }
 
-.box8-item1 img {
+.box8-item1 img , .box8-item2 img , .box8-item3 img {
   max-width: 340px;
 }
-.box8-item2 img {
-  max-width: 340px;
-}
-.box8-item3 img {
-  max-width: 340px;
-}
-.box8-item1 h2 {
+
+.box8-item1 h2 ,.box8-item2 h2 ,.box8-item3 h2 {
   font-size: 18px;
   line-height: 24px;
   font-family: Arial, Helvetica, sans-serif;
   margin-top: 12px;
 }
-.box8-item2 h2 {
-  font-size: 18px;
-  line-height: 24px;
-  font-family: Arial, Helvetica, sans-serif;
-  margin-top: 12px;
-}
-.box8-item3 h2 {
-  font-size: 18px;
-  line-height: 24px;
-  font-family: Arial, Helvetica, sans-serif;
-  margin-top: 12px;
-}
-.box8-item1 p {
-  font-size: 16px;
-  margin-top: 7px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: gray;
-}
-.box8-item2 p {
-  font-size: 16px;
-  margin-top: 7px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: gray;
-}
-.box8-item3 p {
+
+.box8-item1 p, .box8-item2 p , .box8-item3 p {
   font-size: 16px;
   margin-top: 7px;
   font-family: Arial, Helvetica, sans-serif;
@@ -905,54 +865,26 @@ span {
   .box8-items {
     margin-top: 42px;
   }
-  .box8-item1 img {
+  .box8-item1 img ,.box8-item2 img , .box8-item3 img {
     max-width: 268px;
   }
-  .box8-item2 img {
-    max-width: 268px;
-  }
-  .box8-item3 img {
-    max-width: 268px;
-  }
-  .box8-item1 h2 {
+  .box8-item1 h2, .box8-item2 h2 , .box8-item3 h2 {
     font-size: 15px;
     line-height: 16px;
     margin-top: 2px;
     text-align: center;
   }
-  .box8-item2 h2 {
-    font-size: 15px;
-    line-height: 16px;
-    margin-top: 2px;
-    text-align: center;
-  }
-  .box8-item3 h2 {
-    font-size: 15px;
-    line-height: 16px;
-    margin-top: 2px;
-    text-align: center;
-  }
-  .box8-item1 p {
+
+  .box8-item1 p , .box8-item2 p , .box8-item3 p {
     font-size: 15px;
     margin-top: 3px;
     text-align: center;
   }
-  .box8-item2 p {
-    font-size: 15px;
-    margin-top: 3px;
-    text-align: center;
-  }
-  .box8-item3 p {
-    font-size: 15px;
-    margin-top: 3px;
-    text-align: center;
-  }
-  .box8-item2 {
+
+  .box8-item2 ,  .box8-item3 {
     margin-top: 44px;
   }
-  .box8-item3 {
-    margin-top: 44px;
-  }
+ 
 }
 
 .box9 {
